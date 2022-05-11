@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  sherlock:
+           image: rafikrhaiem/sherlock:v1
+           container_name: sherlock
+           volumes:
+             - "./results:/opt/sherlock/results"
+          
