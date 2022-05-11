@@ -8,4 +8,4 @@ git add .
 git commit -m "Sherlock modify"
 git branch -M main
 #git remote add origin git@github.com:rafikarhaiem/sherlock.git
-git push -u origin main
+git push -u origin main --force
