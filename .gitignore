@@ -30,3 +30,6 @@ tests/.excluded_sites
 
 # Vim swap files
 *.swp
+
+# Results directory
+results/
